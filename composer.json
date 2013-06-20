@@ -1,0 +1,15 @@
+{
+    "name": "kennisnet/yourls-kennisnet-theme",
+    "type": "yourls-plugin",
+    "description": "yourls plugin changes the appearance of YOURLS",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Frank Matheron",
+            "email": "frankmatheron@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
